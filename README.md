@@ -1,2 +1,4 @@
 # MyWordPressUtils
-My WordPress Util files
+
+
+[getPagesList.php](getPagesList.php) : Get WordPress All Pages Information
