@@ -2,22 +2,10 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="format-detection" content="telephone=no">
-    <style type="text/css"></style>
     <title>查看页面列表</title>
     <style>
-        table {
-            border: 1px solid #cdcdcd;
-            text-align: left;
-        }
-        td, th {
-            padding-right: 10px;
-        }
-        </style>
+        table {border: 1px solid #cdcdcd;text-align: left;}
+        td, th {padding-right: 10px;}
     </style>
 </head>
 <body>
